@@ -72,7 +72,7 @@ npm start
 ```
 ## Authors
 
-- [@AdityaSharma](https://github.com/Adisharmaax)
+- [@JayasmitaNayak](https://github.com/JayasmitaNayak)
 
 
 ## Feedback
